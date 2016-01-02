@@ -1,0 +1,11 @@
+title: Suresh Marru
+email: smarru@iu.edu
+description: > #
+  Researcher focused on translating complex Distributed Systems into easy to use Science Gateways. An avid Open Source advocate.
+baseurl: ""
+url: "http://people.apache.org/~smarru"
+twitter_username: sureshmarru
+github_username:  smarru
+
+# Build settings
+markdown: kramdown
